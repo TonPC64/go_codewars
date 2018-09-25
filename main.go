@@ -1,7 +1,8 @@
 package main
 
-import "codewar/kata"
+import (
+	_ "codewar/kata"
+)
 
 func main() {
-	kata.Solution("abc")
 }
